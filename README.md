@@ -1,1 +1,0 @@
-# android_vendor_vsmart_V530A
